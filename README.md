@@ -21,3 +21,12 @@ Evaluation of clustering and classification results.
 Installation and Usage
 To run these notebooks, you need to have Python installed, along with Jupyter Notebook or JupyterLab. You also need the following Python libraries:
 #### Committed Colab Notebook
+
+### 3. Demonstrate dimensionality reduction using data bricks
+Implements dimensionality reduction in Databricks.
+Includes data preprocessing and PCA application.
+Features visualizations of reduced datasets.
+Provides performance analysis and insights.
+Contains Databricks notebooks for easy replication.
+#### Committed Colab Notebook
+
