@@ -28,5 +28,4 @@ Includes data preprocessing and PCA application.
 Features visualizations of reduced datasets.
 Provides performance analysis and insights.
 Contains Databricks notebooks for easy replication.
-#### Committed Colab Notebook
-
+#### Committed files to github
